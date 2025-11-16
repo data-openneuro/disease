@@ -48,9 +48,5 @@ curl -s https://api.github.com/repos/data-openneuro/disease/releases/tags/ds0012
 | ds005026 | 82 | [Hearing loss Connectome](https://openneuro.org/datasets/ds005026/) | 
 | ds005063 | 1 | [CR DBS](https://openneuro.org/datasets/ds005063/) | 
 | ds005874 | 232 | [An fMRI Dataset for Appetite Neural Correlates in People Living with Motor Neuron Disease](https://openneuro.org/datasets/ds005874/) | 
-| ds006131 | 44 | [PAFIN: PennLINC AFfective INstability](https://openneuro.org/datasets/ds006131/) | 
-| ds006395 | 182 | [Upper limb dystonia, cervical dystonia and healthy controls dataset](https://openneuro.org/datasets/ds006395/) | 
-| ds006592 | 1 | [The First Comprehensive Study of Early-Emerging Prosopometamorphopsia](https://openneuro.org/datasets/ds006592/) | 
-| ds006731 | 31 | [Resting state and task based functional connectivity reveal distinct mPFC and hippocampal network alterations in major depressive disorder.](https://openneuro.org/datasets/ds006731/) | 
 
 
